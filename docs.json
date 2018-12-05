@@ -5608,7 +5608,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -5941,7 +5941,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -6215,7 +6215,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -6620,7 +6620,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -6792,7 +6792,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -7029,7 +7029,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -7441,7 +7441,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authMessages.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authMessages.js"
     },
     "augments": [],
     "examples": [],
@@ -8007,7 +8007,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -8312,7 +8312,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -8594,7 +8594,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/auth/authApp.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/auth/authApp.js"
     },
     "augments": [],
     "examples": [],
@@ -10699,7 +10699,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileTokens.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileTokens.js"
     },
     "augments": [],
     "examples": [],
@@ -11085,7 +11085,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileTokens.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileTokens.js"
     },
     "augments": [],
     "examples": [],
@@ -11440,7 +11440,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileTokens.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileTokens.js"
     },
     "augments": [],
     "examples": [],
@@ -12074,7 +12074,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileTokens.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileTokens.js"
     },
     "augments": [],
     "examples": [],
@@ -12470,7 +12470,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileProofs.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileProofs.js"
     },
     "augments": [],
     "examples": [],
@@ -12851,7 +12851,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/profiles/profileLookup.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/profiles/profileLookup.js"
     },
     "augments": [],
     "examples": [],
@@ -13954,7 +13954,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -14722,7 +14722,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -15340,7 +15340,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -15802,7 +15802,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -16203,7 +16203,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -16546,7 +16546,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
@@ -16898,7 +16898,7 @@
           "children": [
             {
               "type": "text",
-              "value": "Get the price of a name.",
+              "value": "List the set of files in this application's Gaia storage bucket.",
               "position": {
                 "start": {
                   "line": 1,
@@ -16907,8 +16907,8 @@
                 },
                 "end": {
                   "line": 1,
-                  "column": 25,
-                  "offset": 24
+                  "column": 65,
+                  "offset": 64
                 },
                 "indent": []
               }
@@ -16922,8 +16922,8 @@
             },
             "end": {
               "line": 1,
-              "column": 25,
-              "offset": 24
+              "column": 65,
+              "offset": 64
             },
             "indent": []
           }
@@ -16937,26 +16937,26 @@
         },
         "end": {
           "line": 1,
-          "column": 25,
-          "offset": 24
+          "column": 65,
+          "offset": 64
         }
       }
     },
     "tags": [
       {
         "title": "param",
-        "description": "the name to query",
+        "description": "a callback to invoke on each named file that\nreturns `true` to continue the listing operation or `false` to end it",
         "lineNumber": 2,
         "type": {
           "type": "NameExpression",
-          "name": "String"
+          "name": "function"
         },
-        "name": "fullyQualifiedName"
+        "name": "callback"
       },
       {
         "title": "return",
-        "description": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
-        "lineNumber": 3,
+        "description": "that resolves to the number of files listed",
+        "lineNumber": 4,
         "type": {
           "type": "NameExpression",
           "name": "Promise"
@@ -16965,33 +16965,33 @@
     ],
     "loc": {
       "start": {
-        "line": 224,
-        "column": 2
+        "line": 537,
+        "column": 0
       },
       "end": {
-        "line": 232,
-        "column": 5
+        "line": 542,
+        "column": 3
       }
     },
     "context": {
       "loc": {
         "start": {
-          "line": 233,
-          "column": 2
+          "line": 543,
+          "column": 0
         },
         "end": {
-          "line": 237,
-          "column": 3
+          "line": 546,
+          "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/storage/index.js"
     },
     "augments": [],
     "examples": [],
     "params": [
       {
         "title": "param",
-        "name": "fullyQualifiedName",
+        "name": "callback",
         "lineNumber": 2,
         "description": {
           "type": "root",
@@ -17001,7 +17001,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "the name to query",
+                  "value": "a callback to invoke on each named file that\nreturns ",
                   "position": {
                     "start": {
                       "line": 1,
@@ -17009,410 +17009,84 @@
                       "offset": 0
                     },
                     "end": {
-                      "line": 1,
-                      "column": 18,
-                      "offset": 17
+                      "line": 2,
+                      "column": 9,
+                      "offset": 53
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                },
+                {
+                  "type": "inlineCode",
+                  "value": "true",
+                  "position": {
+                    "start": {
+                      "line": 2,
+                      "column": 9,
+                      "offset": 53
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 15,
+                      "offset": 59
+                    },
+                    "indent": []
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": " to continue the listing operation or ",
+                  "position": {
+                    "start": {
+                      "line": 2,
+                      "column": 15,
+                      "offset": 59
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 53,
+                      "offset": 97
+                    },
+                    "indent": []
+                  }
+                },
+                {
+                  "type": "inlineCode",
+                  "value": "false",
+                  "position": {
+                    "start": {
+                      "line": 2,
+                      "column": 53,
+                      "offset": 97
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 60,
+                      "offset": 104
+                    },
+                    "indent": []
+                  }
+                },
+                {
+                  "type": "text",
+                  "value": " to end it",
+                  "position": {
+                    "start": {
+                      "line": 2,
+                      "column": 60,
+                      "offset": 104
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 70,
+                      "offset": 114
                     },
                     "indent": []
                   }
                 }
               ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 18,
-                  "offset": 17
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 18,
-              "offset": 17
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 5,
-                      "column": 31,
-                      "offset": 325
-                    },
-                    "indent": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 5,
-                  "column": 31,
-                  "offset": 325
-                },
-                "indent": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 5,
-              "column": 31,
-              "offset": 325
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNamePrice",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNamePrice",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNamePrice"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the price of a namespace",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 29,
-                  "offset": 28
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 29,
-              "offset": 28
-            },
-            "indent": []
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 1,
-          "column": 29,
-          "offset": 28
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the namespace to query",
-        "lineNumber": 2,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "namespaceID"
-      },
-      {
-        "title": "return",
-        "description": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 239,
-        "column": 2
-      },
-      "end": {
-        "line": 247,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 248,
-          "column": 2
-        },
-        "end": {
-          "line": 252,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "namespaceID",
-        "lineNumber": 2,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the namespace to query",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 23,
-                      "offset": 22
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 23,
-                  "offset": 22
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 23,
-              "offset": 22
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 5,
-                      "column": 31,
-                      "offset": 325
-                    },
-                    "indent": [
-                      1,
-                      1,
-                      1,
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 5,
-                  "column": 31,
-                  "offset": 325
-                },
-                "indent": [
-                  1,
-                  1,
-                  1,
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 5,
-              "column": 31,
-              "offset": 325
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNamespacePrice",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNamespacePrice",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNamespacePrice"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "How many blocks can pass between a name expiring and the name being able to be\nre-registered by a different owner?",
               "position": {
                 "start": {
                   "line": 1,
@@ -17421,7 +17095,7 @@
                 },
                 "end": {
                   "line": 2,
-                  "column": 36,
+                  "column": 70,
                   "offset": 114
                 },
                 "indent": [
@@ -17438,560 +17112,14 @@
             },
             "end": {
               "line": 2,
-              "column": 36,
-              "offset": 114
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 36,
-          "offset": 114
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "return",
-        "description": "a promise to the number of blocks",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 254,
-        "column": 2
-      },
-      "end": {
-        "line": 258,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 259,
-          "column": 2
-        },
-        "end": {
-          "line": 261,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise to the number of blocks",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 34,
-                      "offset": 33
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 34,
-                  "offset": 33
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 34,
-              "offset": 33
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getGracePeriod",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getGracePeriod",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getGracePeriod"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the names -- both on-chain and off-chain -- owned by an address.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 69,
-                  "offset": 68
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 69,
-              "offset": 68
-            },
-            "indent": []
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 1,
-          "column": 69,
-          "offset": 68
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the blockchain address (the hash of the owner public key)",
-        "lineNumber": 2,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to a list of names (Strings)",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 263,
-        "column": 2
-      },
-      "end": {
-        "line": 267,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 268,
-          "column": 2
-        },
-        "end": {
-          "line": 273,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 2,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the blockchain address (the hash of the owner public key)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 58,
-                      "offset": 57
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 58,
-                  "offset": 57
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 58,
-              "offset": 57
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to a list of names (Strings)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 53,
-                      "offset": 52
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 53,
-                  "offset": 52
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 53,
-              "offset": 52
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNamesOwned",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNamesOwned",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNamesOwned"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the blockchain address to which a name's registration fee must be sent\n(the address will depend on the namespace in which it is registered.)",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 70,
-                  "offset": 144
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
               "column": 70,
-              "offset": 144
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 70,
-          "offset": 144
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the namespace ID",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "namespace"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to an address (String)",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 275,
-        "column": 2
-      },
-      "end": {
-        "line": 280,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 281,
-          "column": 2
-        },
-        "end": {
-          "line": 304,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "namespace",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the namespace ID",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 17,
-                      "offset": 16
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 17,
-                  "offset": 16
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 17,
-              "offset": 16
+              "offset": 114
             }
           }
         },
         "type": {
           "type": "NameExpression",
-          "name": "String"
+          "name": "function"
         }
       }
     ],
@@ -18006,695 +17134,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "a promise that resolves to an address (String)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 47,
-                      "offset": 46
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 47,
-                  "offset": 46
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 47,
-              "offset": 46
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNamespaceBurnAddress",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNamespaceBurnAddress",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNamespaceBurnAddress"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get WHOIS-like information for a name, including the address that owns it,\nthe block at which it expires, and the zone file anchored to it (if available).",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 80,
-                  "offset": 154
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 80,
-              "offset": 154
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 80,
-          "offset": 154
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the name to query.  Can be on-chain of off-chain.",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "fullyQualifiedName"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to the WHOIS-like information",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 306,
-        "column": 2
-      },
-      "end": {
-        "line": 311,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 312,
-          "column": 2
-        },
-        "end": {
-          "line": 333,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "fullyQualifiedName",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the name to query.  Can be on-chain of off-chain.",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 50,
-                      "offset": 49
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 50,
-                  "offset": 49
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 50,
-              "offset": 49
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to the WHOIS-like information",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 54,
-                      "offset": 53
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 54,
-                  "offset": 53
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 54,
-              "offset": 53
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNameInfo",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNameInfo",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNameInfo"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the pricing parameters and creation history of a namespace.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 64,
-                  "offset": 63
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 64,
-              "offset": 63
-            },
-            "indent": []
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 1,
-          "column": 64,
-          "offset": 63
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the namespace to query",
-        "lineNumber": 2,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "namespaceID"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to the namespace information.",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 335,
-        "column": 2
-      },
-      "end": {
-        "line": 339,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 340,
-          "column": 2
-        },
-        "end": {
-          "line": 364,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "namespaceID",
-        "lineNumber": 2,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the namespace to query",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 23,
-                      "offset": 22
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 23,
-                  "offset": 22
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 23,
-              "offset": 22
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to the namespace information.",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 54,
-                      "offset": 53
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 54,
-                  "offset": 53
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 54,
-              "offset": 53
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getNamespaceInfo",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getNamespaceInfo",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getNamespaceInfo"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get a zone file, given its hash.  Throws an exception if the zone file\nobtained does not match the hash.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 34,
-                  "offset": 104
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 34,
-              "offset": 104
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 34,
-          "offset": 104
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the ripemd160(sha256) hash of the zone file",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "zonefileHash"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to the zone file's text",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 366,
-        "column": 2
-      },
-      "end": {
-        "line": 371,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 372,
-          "column": 2
-        },
-        "end": {
-          "line": 389,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "zonefileHash",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the ripemd160(sha256) hash of the zone file",
+                  "value": "that resolves to the number of files listed",
                   "position": {
                     "start": {
                       "line": 1,
@@ -18738,67 +17178,6 @@
             }
           }
         },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to the zone file's text",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 48,
-                      "offset": 47
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 48,
-                  "offset": 47
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 48,
-              "offset": 47
-            }
-          }
-        },
         "title": "returns",
         "type": {
           "type": "NameExpression",
@@ -18809,10 +17188,14 @@
     "sees": [],
     "throws": [],
     "todos": [],
-    "name": "getZonefile",
+    "name": "listFiles",
     "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
+    "path": [
+      {
+        "name": "listFiles",
+        "kind": "function"
+      }
+    ],
     "members": {
       "global": [],
       "inner": [],
@@ -18820,381 +17203,14 @@
       "events": [],
       "static": []
     },
-    "path": [
-      {
-        "name": "getZonefile",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getZonefile"
+    "namespace": "listFiles"
   },
   {
+    "name": "Names",
+    "kind": "note",
     "description": {
       "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the status of an account for a particular token holding.  This includes its total number of\nexpenditures and credits, lockup times, last txid, and so on.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 62,
-                  "offset": 157
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 62,
-              "offset": 157
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
-          "column": 1,
-          "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 62,
-          "offset": 157
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the account",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "param",
-        "description": "the token type to query",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "tokenType"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to an object representing the state of the account\n  for this token",
-        "lineNumber": 5,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 391,
-        "column": 2
-      },
-      "end": {
-        "line": 398,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 399,
-          "column": 2
-        },
-        "end": {
-          "line": 418,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the account",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 12,
-                      "offset": 11
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 12,
-                  "offset": 11
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 12,
-              "offset": 11
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      },
-      {
-        "title": "param",
-        "name": "tokenType",
-        "lineNumber": 4,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the token type to query",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 24,
-                      "offset": 23
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 24,
-                  "offset": 23
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 24,
-              "offset": 23
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to an object representing the state of the account\n  for this token",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 17,
-                      "offset": 91
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 17,
-                  "offset": 91
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 17,
-              "offset": 91
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getAccountStatus",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getAccountStatus",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getAccountStatus"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get a page of an account's transaction history.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 48,
-                  "offset": 47
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 48,
-              "offset": 47
-            },
-            "indent": []
-          }
-        }
-      ],
+      "children": [],
       "position": {
         "start": {
           "line": 1,
@@ -19203,592 +17219,17 @@
         },
         "end": {
           "line": 1,
-          "column": 48,
-          "offset": 47
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the account's address",
-        "lineNumber": 2,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "param",
-        "description": "the page number.  Page 0 is the most recent transactions",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "number"
-        },
-        "name": "page"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at various block heights (e.g. prior balances, txids, etc)",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 421,
-        "column": 2
-      },
-      "end": {
-        "line": 427,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 428,
-          "column": 2
-        },
-        "end": {
-          "line": 453,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 2,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the account's address",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 22,
-                      "offset": 21
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 22,
-                  "offset": 21
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 22,
-              "offset": 21
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      },
-      {
-        "title": "param",
-        "name": "page",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the page number.  Page 0 is the most recent transactions",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 57,
-                      "offset": 56
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 57,
-                  "offset": 56
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 57,
-              "offset": 56
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "number"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at various block heights (e.g. prior balances, txids, etc)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 83,
-                      "offset": 156
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 83,
-                  "offset": 156
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 83,
-              "offset": 156
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getAccountHistoryPage",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getAccountHistoryPage",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getAccountHistoryPage"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the state(s) of an account at a particular block height.  This includes the state of the\naccount beginning with this block's transactions, as well as all of the states the account\npassed through when this block was processed (if any).",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 3,
-                  "column": 55,
-                  "offset": 238
-                },
-                "indent": [
-                  1,
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 3,
-              "column": 55,
-              "offset": 238
-            },
-            "indent": [
-              1,
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
           "column": 1,
           "offset": 0
-        },
-        "end": {
-          "line": 3,
-          "column": 55,
-          "offset": 238
         }
       }
     },
-    "tags": [
+    "path": [
       {
-        "title": "param",
-        "description": "the account's address",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "param",
-        "description": "the block to query",
-        "lineNumber": 5,
-        "type": {
-          "type": "NameExpression",
-          "name": "Integer"
-        },
-        "name": "blockHeight"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at this block.",
-        "lineNumber": 6,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
+        "name": "Names",
+        "kind": "note"
       }
     ],
-    "loc": {
-      "start": {
-        "line": 455,
-        "column": 2
-      },
-      "end": {
-        "line": 463,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 464,
-          "column": 2
-        },
-        "end": {
-          "line": 488,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 4,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the account's address",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 22,
-                      "offset": 21
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 22,
-                  "offset": 21
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 22,
-              "offset": 21
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      },
-      {
-        "title": "param",
-        "name": "blockHeight",
-        "lineNumber": 5,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the block to query",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 19,
-                      "offset": 18
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 19,
-                  "offset": 18
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 19,
-              "offset": 18
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "Integer"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at this block.",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 39,
-                      "offset": 112
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 39,
-                  "offset": 112
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 39,
-              "offset": 112
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getAccountAt",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
     "members": {
       "global": [],
       "inner": [],
@@ -19796,55 +17237,14 @@
       "events": [],
       "static": []
     },
-    "path": [
-      {
-        "name": "getAccountAt",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getAccountAt"
+    "namespace": "Names"
   },
   {
+    "name": "Token",
+    "kind": "note",
     "description": {
       "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the set of token types that this account owns",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 50,
-                  "offset": 49
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 50,
-              "offset": 49
-            },
-            "indent": []
-          }
-        }
-      ],
+      "children": [],
       "position": {
         "start": {
           "line": 1,
@@ -19853,519 +17253,17 @@
         },
         "end": {
           "line": 1,
-          "column": 50,
-          "offset": 49
-        }
-      }
-    },
-    "tags": [
-      {
-        "title": "param",
-        "description": "the account's address",
-        "lineNumber": 2,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to an Array of Strings, where each item encodes the \n  type of token this account holds (excluding the underlying blockchain's tokens)",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "loc": {
-      "start": {
-        "line": 490,
-        "column": 2
-      },
-      "end": {
-        "line": 495,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 496,
-          "column": 2
-        },
-        "end": {
-          "line": 513,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 2,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the account's address",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 22,
-                      "offset": 21
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 22,
-                  "offset": 21
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 22,
-              "offset": 21
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to an Array of Strings, where each item encodes the \n  type of token this account holds (excluding the underlying blockchain's tokens)",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 82,
-                      "offset": 158
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 82,
-                  "offset": 158
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 82,
-              "offset": 158
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getAccountTokens",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
-    "members": {
-      "global": [],
-      "inner": [],
-      "instance": [],
-      "events": [],
-      "static": []
-    },
-    "path": [
-      {
-        "name": "getAccountTokens",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getAccountTokens"
-  },
-  {
-    "description": {
-      "type": "root",
-      "children": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "type": "text",
-              "value": "Get the number of tokens owned by an account.  If the account does not exist or has no\ntokens of this type, then 0 will be returned.",
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 46,
-                  "offset": 132
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 46,
-              "offset": 132
-            },
-            "indent": [
-              1
-            ]
-          }
-        }
-      ],
-      "position": {
-        "start": {
-          "line": 1,
           "column": 1,
           "offset": 0
-        },
-        "end": {
-          "line": 2,
-          "column": 46,
-          "offset": 132
         }
       }
     },
-    "tags": [
+    "path": [
       {
-        "title": "param",
-        "description": "the account's address",
-        "lineNumber": 3,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "address"
-      },
-      {
-        "title": "param",
-        "description": "the type of token to query.",
-        "lineNumber": 4,
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        },
-        "name": "tokenType"
-      },
-      {
-        "title": "return",
-        "description": "a promise that resolves to a BigInteger that encodes the number of tokens \n  held by this account.",
-        "lineNumber": 5,
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
+        "name": "Token",
+        "kind": "note"
       }
     ],
-    "loc": {
-      "start": {
-        "line": 515,
-        "column": 2
-      },
-      "end": {
-        "line": 522,
-        "column": 5
-      }
-    },
-    "context": {
-      "loc": {
-        "start": {
-          "line": 523,
-          "column": 2
-        },
-        "end": {
-          "line": 545,
-          "column": 3
-        }
-      },
-      "file": "/Users/larry/git/blockstack.js/src/network.js"
-    },
-    "augments": [],
-    "examples": [],
-    "params": [
-      {
-        "title": "param",
-        "name": "address",
-        "lineNumber": 3,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the account's address",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 22,
-                      "offset": 21
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 22,
-                  "offset": 21
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 22,
-              "offset": 21
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      },
-      {
-        "title": "param",
-        "name": "tokenType",
-        "lineNumber": 4,
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "the type of token to query.",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 1,
-                      "column": 28,
-                      "offset": 27
-                    },
-                    "indent": []
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 1,
-                  "column": 28,
-                  "offset": 27
-                },
-                "indent": []
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 1,
-              "column": 28,
-              "offset": 27
-            }
-          }
-        },
-        "type": {
-          "type": "NameExpression",
-          "name": "String"
-        }
-      }
-    ],
-    "properties": [],
-    "returns": [
-      {
-        "description": {
-          "type": "root",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "type": "text",
-                  "value": "a promise that resolves to a BigInteger that encodes the number of tokens \n  held by this account.",
-                  "position": {
-                    "start": {
-                      "line": 1,
-                      "column": 1,
-                      "offset": 0
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 24,
-                      "offset": 98
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                }
-              ],
-              "position": {
-                "start": {
-                  "line": 1,
-                  "column": 1,
-                  "offset": 0
-                },
-                "end": {
-                  "line": 2,
-                  "column": 24,
-                  "offset": 98
-                },
-                "indent": [
-                  1
-                ]
-              }
-            }
-          ],
-          "position": {
-            "start": {
-              "line": 1,
-              "column": 1,
-              "offset": 0
-            },
-            "end": {
-              "line": 2,
-              "column": 24,
-              "offset": 98
-            }
-          }
-        },
-        "title": "returns",
-        "type": {
-          "type": "NameExpression",
-          "name": "Promise"
-        }
-      }
-    ],
-    "sees": [],
-    "throws": [],
-    "todos": [],
-    "name": "getAccountBalance",
-    "kind": "function",
-    "memberof": "BlockstackNetwork",
-    "scope": "instance",
     "members": {
       "global": [],
       "inner": [],
@@ -20373,14 +17271,7 @@
       "events": [],
       "static": []
     },
-    "path": [
-      {
-        "name": "getAccountBalance",
-        "kind": "function",
-        "scope": "instance"
-      }
-    ],
-    "namespace": "#getAccountBalance"
+    "namespace": "Token"
   },
   {
     "description": {
@@ -20527,7 +17418,7 @@
           "column": 1
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/operations/txbuild.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/operations/txbuild.js"
     },
     "augments": [],
     "examples": [],
@@ -20984,6 +17875,12 @@
     "todos": [],
     "name": "estimateTokenTransfer",
     "kind": "function",
+    "path": [
+      {
+        "name": "estimateTokenTransfer",
+        "kind": "function"
+      }
+    ],
     "members": {
       "global": [],
       "inner": [],
@@ -20991,12 +17888,6 @@
       "events": [],
       "static": []
     },
-    "path": [
-      {
-        "name": "estimateTokenTransfer",
-        "kind": "function"
-      }
-    ],
     "namespace": "estimateTokenTransfer"
   },
   {
@@ -21008,7 +17899,7 @@
           "children": [
             {
               "type": "text",
-              "value": "List the set of files in this application's Gaia storage bucket.",
+              "value": "Get the price of a name.",
               "position": {
                 "start": {
                   "line": 1,
@@ -21017,8 +17908,8 @@
                 },
                 "end": {
                   "line": 1,
-                  "column": 65,
-                  "offset": 64
+                  "column": 25,
+                  "offset": 24
                 },
                 "indent": []
               }
@@ -21032,8 +17923,8 @@
             },
             "end": {
               "line": 1,
-              "column": 65,
-              "offset": 64
+              "column": 25,
+              "offset": 24
             },
             "indent": []
           }
@@ -21047,26 +17938,26 @@
         },
         "end": {
           "line": 1,
-          "column": 65,
-          "offset": 64
+          "column": 25,
+          "offset": 24
         }
       }
     },
     "tags": [
       {
         "title": "param",
-        "description": "a callback to invoke on each named file that\nreturns `true` to continue the listing operation or `false` to end it",
+        "description": "the name to query",
         "lineNumber": 2,
         "type": {
           "type": "NameExpression",
-          "name": "function"
+          "name": "String"
         },
-        "name": "callback"
+        "name": "fullyQualifiedName"
       },
       {
         "title": "return",
-        "description": "that resolves to the number of files listed",
-        "lineNumber": 4,
+        "description": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
+        "lineNumber": 3,
         "type": {
           "type": "NameExpression",
           "name": "Promise"
@@ -21075,33 +17966,33 @@
     ],
     "loc": {
       "start": {
-        "line": 537,
-        "column": 0
+        "line": 227,
+        "column": 2
       },
       "end": {
-        "line": 542,
-        "column": 3
+        "line": 235,
+        "column": 5
       }
     },
     "context": {
       "loc": {
         "start": {
-          "line": 543,
-          "column": 0
+          "line": 236,
+          "column": 2
         },
         "end": {
-          "line": 546,
-          "column": 1
+          "line": 240,
+          "column": 3
         }
       },
-      "file": "/Users/larry/git/blockstack.js/src/storage/index.js"
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
     },
     "augments": [],
     "examples": [],
     "params": [
       {
         "title": "param",
-        "name": "callback",
+        "name": "fullyQualifiedName",
         "lineNumber": 2,
         "description": {
           "type": "root",
@@ -21111,7 +18002,7 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "a callback to invoke on each named file that\nreturns ",
+                  "value": "the name to query",
                   "position": {
                     "start": {
                       "line": 1,
@@ -21119,79 +18010,9 @@
                       "offset": 0
                     },
                     "end": {
-                      "line": 2,
-                      "column": 9,
-                      "offset": 53
-                    },
-                    "indent": [
-                      1
-                    ]
-                  }
-                },
-                {
-                  "type": "inlineCode",
-                  "value": "true",
-                  "position": {
-                    "start": {
-                      "line": 2,
-                      "column": 9,
-                      "offset": 53
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 15,
-                      "offset": 59
-                    },
-                    "indent": []
-                  }
-                },
-                {
-                  "type": "text",
-                  "value": " to continue the listing operation or ",
-                  "position": {
-                    "start": {
-                      "line": 2,
-                      "column": 15,
-                      "offset": 59
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 53,
-                      "offset": 97
-                    },
-                    "indent": []
-                  }
-                },
-                {
-                  "type": "inlineCode",
-                  "value": "false",
-                  "position": {
-                    "start": {
-                      "line": 2,
-                      "column": 53,
-                      "offset": 97
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 60,
-                      "offset": 104
-                    },
-                    "indent": []
-                  }
-                },
-                {
-                  "type": "text",
-                  "value": " to end it",
-                  "position": {
-                    "start": {
-                      "line": 2,
-                      "column": 60,
-                      "offset": 104
-                    },
-                    "end": {
-                      "line": 2,
-                      "column": 70,
-                      "offset": 114
+                      "line": 1,
+                      "column": 18,
+                      "offset": 17
                     },
                     "indent": []
                   }
@@ -21204,8 +18025,404 @@
                   "offset": 0
                 },
                 "end": {
+                  "line": 1,
+                  "column": 18,
+                  "offset": 17
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 18,
+              "offset": 17
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 5,
+                      "column": 31,
+                      "offset": 325
+                    },
+                    "indent": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 5,
+                  "column": 31,
+                  "offset": 325
+                },
+                "indent": [
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 5,
+              "column": 31,
+              "offset": 325
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNamePrice",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNamePrice",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNamePrice"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the price of a namespace",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 29,
+                  "offset": 28
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 29,
+              "offset": 28
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 29,
+          "offset": 28
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the namespace to query",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "namespaceID"
+      },
+      {
+        "title": "return",
+        "description": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 242,
+        "column": 2
+      },
+      "end": {
+        "line": 250,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 251,
+          "column": 2
+        },
+        "end": {
+          "line": 255,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "namespaceID",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the namespace to query",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 23,
+                      "offset": 22
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 23,
+                  "offset": 22
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 23,
+              "offset": 22
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise to an Object with { units: String, amount: BigInteger }, where\n  .units encodes the cryptocurrency units to pay (e.g. BTC, STACKS), and\n  .amount encodes the number of units, in the smallest denominiated amount\n  (e.g. if .units is BTC, .amount will be satoshis; if .units is STACKS, \n  .amount will be microStacks)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 5,
+                      "column": 31,
+                      "offset": 325
+                    },
+                    "indent": [
+                      1,
+                      1,
+                      1,
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 5,
+                  "column": 31,
+                  "offset": 325
+                },
+                "indent": [
+                  1,
+                  1,
+                  1,
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 5,
+              "column": 31,
+              "offset": 325
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNamespacePrice",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNamespacePrice",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNamespacePrice"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "How many blocks can pass between a name expiring and the name being able to be\nre-registered by a different owner?",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
                   "line": 2,
-                  "column": 70,
+                  "column": 36,
                   "offset": 114
                 },
                 "indent": [
@@ -21222,14 +18439,309 @@
             },
             "end": {
               "line": 2,
-              "column": 70,
+              "column": 36,
               "offset": 114
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 36,
+          "offset": 114
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "return",
+        "description": "a promise to the number of blocks",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 257,
+        "column": 2
+      },
+      "end": {
+        "line": 261,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 262,
+          "column": 2
+        },
+        "end": {
+          "line": 264,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise to the number of blocks",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 34,
+                      "offset": 33
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 34,
+                  "offset": 33
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 34,
+              "offset": 33
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getGracePeriod",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getGracePeriod",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getGracePeriod"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the names -- both on-chain and off-chain -- owned by an address.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 69,
+                  "offset": 68
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 69,
+              "offset": 68
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 69,
+          "offset": 68
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the blockchain address (the hash of the owner public key)",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to a list of names (Strings)",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 266,
+        "column": 2
+      },
+      "end": {
+        "line": 270,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 271,
+          "column": 2
+        },
+        "end": {
+          "line": 276,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the blockchain address (the hash of the owner public key)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 58,
+                      "offset": 57
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 58,
+                  "offset": 57
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 58,
+              "offset": 57
             }
           }
         },
         "type": {
           "type": "NameExpression",
-          "name": "function"
+          "name": "String"
         }
       }
     ],
@@ -21244,7 +18756,946 @@
               "children": [
                 {
                   "type": "text",
-                  "value": "that resolves to the number of files listed",
+                  "value": "a promise that resolves to a list of names (Strings)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 53,
+                      "offset": 52
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 53,
+                  "offset": 52
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 53,
+              "offset": 52
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNamesOwned",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNamesOwned",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNamesOwned"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the blockchain address to which a name's registration fee must be sent\n(the address will depend on the namespace in which it is registered.)",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 70,
+                  "offset": 144
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 70,
+              "offset": 144
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 70,
+          "offset": 144
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the namespace ID",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "namespace"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to an address (String)",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 278,
+        "column": 2
+      },
+      "end": {
+        "line": 283,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 284,
+          "column": 2
+        },
+        "end": {
+          "line": 307,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "namespace",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the namespace ID",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 17,
+                      "offset": 16
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 17,
+                  "offset": 16
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 17,
+              "offset": 16
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to an address (String)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 47,
+                      "offset": 46
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 47,
+                  "offset": 46
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 47,
+              "offset": 46
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNamespaceBurnAddress",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNamespaceBurnAddress",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNamespaceBurnAddress"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get WHOIS-like information for a name, including the address that owns it,\nthe block at which it expires, and the zone file anchored to it (if available).",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 80,
+                  "offset": 154
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 80,
+              "offset": 154
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 80,
+          "offset": 154
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the name to query.  Can be on-chain of off-chain.",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "fullyQualifiedName"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to the WHOIS-like information",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 309,
+        "column": 2
+      },
+      "end": {
+        "line": 314,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 315,
+          "column": 2
+        },
+        "end": {
+          "line": 336,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "fullyQualifiedName",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the name to query.  Can be on-chain of off-chain.",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 50,
+                      "offset": 49
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 50,
+                  "offset": 49
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 50,
+              "offset": 49
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to the WHOIS-like information",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 54,
+                      "offset": 53
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 54,
+                  "offset": 53
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 54,
+              "offset": 53
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNameInfo",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNameInfo",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNameInfo"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the pricing parameters and creation history of a namespace.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 64,
+                  "offset": 63
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 64,
+              "offset": 63
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 64,
+          "offset": 63
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the namespace to query",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "namespaceID"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to the namespace information.",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 338,
+        "column": 2
+      },
+      "end": {
+        "line": 342,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 343,
+          "column": 2
+        },
+        "end": {
+          "line": 367,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "namespaceID",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the namespace to query",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 23,
+                      "offset": 22
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 23,
+                  "offset": 22
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 23,
+              "offset": 22
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to the namespace information.",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 54,
+                      "offset": 53
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 54,
+                  "offset": 53
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 54,
+              "offset": 53
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getNamespaceInfo",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getNamespaceInfo",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getNamespaceInfo"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get a zone file, given its hash.  Throws an exception if the zone file\nobtained does not match the hash.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 34,
+                  "offset": 104
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 34,
+              "offset": 104
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 34,
+          "offset": 104
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the ripemd160(sha256) hash of the zone file",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "zonefileHash"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to the zone file's text",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 369,
+        "column": 2
+      },
+      "end": {
+        "line": 374,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 375,
+          "column": 2
+        },
+        "end": {
+          "line": 392,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "zonefileHash",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the ripemd160(sha256) hash of the zone file",
                   "position": {
                     "start": {
                       "line": 1,
@@ -21288,6 +19739,67 @@
             }
           }
         },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to the zone file's text",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 48,
+                      "offset": 47
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 48,
+                  "offset": 47
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 48,
+              "offset": 47
+            }
+          }
+        },
         "title": "returns",
         "type": {
           "type": "NameExpression",
@@ -21298,8 +19810,10 @@
     "sees": [],
     "throws": [],
     "todos": [],
-    "name": "listFiles",
+    "name": "getZonefile",
     "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
     "members": {
       "global": [],
       "inner": [],
@@ -21309,10 +19823,1564 @@
     },
     "path": [
       {
-        "name": "listFiles",
-        "kind": "function"
+        "name": "getZonefile",
+        "kind": "function",
+        "scope": "instance"
       }
     ],
-    "namespace": "listFiles"
+    "namespace": "#getZonefile"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the status of an account for a particular token holding.  This includes its total number of\nexpenditures and credits, lockup times, last txid, and so on.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 62,
+                  "offset": 157
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 62,
+              "offset": 157
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 62,
+          "offset": 157
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the account",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "param",
+        "description": "the token type to query",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "tokenType"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to an object representing the state of the account\n  for this token",
+        "lineNumber": 5,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 394,
+        "column": 2
+      },
+      "end": {
+        "line": 401,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 402,
+          "column": 2
+        },
+        "end": {
+          "line": 421,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the account",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 12,
+                      "offset": 11
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 12,
+                  "offset": 11
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 12,
+              "offset": 11
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      },
+      {
+        "title": "param",
+        "name": "tokenType",
+        "lineNumber": 4,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the token type to query",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 24,
+                      "offset": 23
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 24,
+                  "offset": 23
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 24,
+              "offset": 23
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to an object representing the state of the account\n  for this token",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 17,
+                      "offset": 91
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 17,
+                  "offset": 91
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 17,
+              "offset": 91
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getAccountStatus",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getAccountStatus",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getAccountStatus"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get a page of an account's transaction history.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 48,
+                  "offset": 47
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 48,
+              "offset": 47
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 48,
+          "offset": 47
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the account's address",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "param",
+        "description": "the page number.  Page 0 is the most recent transactions",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        },
+        "name": "page"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at various block heights (e.g. prior balances, txids, etc)",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 424,
+        "column": 2
+      },
+      "end": {
+        "line": 430,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 431,
+          "column": 2
+        },
+        "end": {
+          "line": 456,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the account's address",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 22,
+                      "offset": 21
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22,
+                  "offset": 21
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      },
+      {
+        "title": "param",
+        "name": "page",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the page number.  Page 0 is the most recent transactions",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 57,
+                      "offset": 56
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 57,
+                  "offset": 56
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 57,
+              "offset": 56
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "number"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at various block heights (e.g. prior balances, txids, etc)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 83,
+                      "offset": 156
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 83,
+                  "offset": 156
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 83,
+              "offset": 156
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getAccountHistoryPage",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getAccountHistoryPage",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getAccountHistoryPage"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the state(s) of an account at a particular block height.  This includes the state of the\naccount beginning with this block's transactions, as well as all of the states the account\npassed through when this block was processed (if any).",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 3,
+                  "column": 55,
+                  "offset": 238
+                },
+                "indent": [
+                  1,
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 3,
+              "column": 55,
+              "offset": 238
+            },
+            "indent": [
+              1,
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 3,
+          "column": 55,
+          "offset": 238
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the account's address",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "param",
+        "description": "the block to query",
+        "lineNumber": 5,
+        "type": {
+          "type": "NameExpression",
+          "name": "Integer"
+        },
+        "name": "blockHeight"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at this block.",
+        "lineNumber": 6,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 458,
+        "column": 2
+      },
+      "end": {
+        "line": 466,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 467,
+          "column": 2
+        },
+        "end": {
+          "line": 491,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 4,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the account's address",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 22,
+                      "offset": 21
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22,
+                  "offset": 21
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      },
+      {
+        "title": "param",
+        "name": "blockHeight",
+        "lineNumber": 5,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the block to query",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 19,
+                      "offset": 18
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 19,
+                  "offset": 18
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 19,
+              "offset": 18
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "Integer"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to an Array of Objects, where each Object encodes\n  states of the account at this block.",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 39,
+                      "offset": 112
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 39,
+                  "offset": 112
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 39,
+              "offset": 112
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getAccountAt",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getAccountAt",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getAccountAt"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the set of token types that this account owns",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 50,
+                  "offset": 49
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 50,
+              "offset": 49
+            },
+            "indent": []
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 1,
+          "column": 50,
+          "offset": 49
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the account's address",
+        "lineNumber": 2,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to an Array of Strings, where each item encodes the \n  type of token this account holds (excluding the underlying blockchain's tokens)",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 493,
+        "column": 2
+      },
+      "end": {
+        "line": 498,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 499,
+          "column": 2
+        },
+        "end": {
+          "line": 516,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 2,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the account's address",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 22,
+                      "offset": 21
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22,
+                  "offset": 21
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to an Array of Strings, where each item encodes the \n  type of token this account holds (excluding the underlying blockchain's tokens)",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 82,
+                      "offset": 158
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 82,
+                  "offset": 158
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 82,
+              "offset": 158
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getAccountTokens",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getAccountTokens",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getAccountTokens"
+  },
+  {
+    "description": {
+      "type": "root",
+      "children": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "type": "text",
+              "value": "Get the number of tokens owned by an account.  If the account does not exist or has no\ntokens of this type, then 0 will be returned.",
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 46,
+                  "offset": 132
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 46,
+              "offset": 132
+            },
+            "indent": [
+              1
+            ]
+          }
+        }
+      ],
+      "position": {
+        "start": {
+          "line": 1,
+          "column": 1,
+          "offset": 0
+        },
+        "end": {
+          "line": 2,
+          "column": 46,
+          "offset": 132
+        }
+      }
+    },
+    "tags": [
+      {
+        "title": "param",
+        "description": "the account's address",
+        "lineNumber": 3,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "address"
+      },
+      {
+        "title": "param",
+        "description": "the type of token to query.",
+        "lineNumber": 4,
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        },
+        "name": "tokenType"
+      },
+      {
+        "title": "return",
+        "description": "a promise that resolves to a BigInteger that encodes the number of tokens \n  held by this account.",
+        "lineNumber": 5,
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "loc": {
+      "start": {
+        "line": 518,
+        "column": 2
+      },
+      "end": {
+        "line": 525,
+        "column": 5
+      }
+    },
+    "context": {
+      "loc": {
+        "start": {
+          "line": 526,
+          "column": 2
+        },
+        "end": {
+          "line": 548,
+          "column": 3
+        }
+      },
+      "file": "/Users/manthony/repos/blockstack.js/src/network.js"
+    },
+    "augments": [],
+    "examples": [],
+    "params": [
+      {
+        "title": "param",
+        "name": "address",
+        "lineNumber": 3,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the account's address",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 22,
+                      "offset": 21
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 22,
+                  "offset": 21
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 22,
+              "offset": 21
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      },
+      {
+        "title": "param",
+        "name": "tokenType",
+        "lineNumber": 4,
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "the type of token to query.",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 1,
+                      "column": 28,
+                      "offset": 27
+                    },
+                    "indent": []
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 1,
+                  "column": 28,
+                  "offset": 27
+                },
+                "indent": []
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 1,
+              "column": 28,
+              "offset": 27
+            }
+          }
+        },
+        "type": {
+          "type": "NameExpression",
+          "name": "String"
+        }
+      }
+    ],
+    "properties": [],
+    "returns": [
+      {
+        "description": {
+          "type": "root",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "type": "text",
+                  "value": "a promise that resolves to a BigInteger that encodes the number of tokens \n  held by this account.",
+                  "position": {
+                    "start": {
+                      "line": 1,
+                      "column": 1,
+                      "offset": 0
+                    },
+                    "end": {
+                      "line": 2,
+                      "column": 24,
+                      "offset": 98
+                    },
+                    "indent": [
+                      1
+                    ]
+                  }
+                }
+              ],
+              "position": {
+                "start": {
+                  "line": 1,
+                  "column": 1,
+                  "offset": 0
+                },
+                "end": {
+                  "line": 2,
+                  "column": 24,
+                  "offset": 98
+                },
+                "indent": [
+                  1
+                ]
+              }
+            }
+          ],
+          "position": {
+            "start": {
+              "line": 1,
+              "column": 1,
+              "offset": 0
+            },
+            "end": {
+              "line": 2,
+              "column": 24,
+              "offset": 98
+            }
+          }
+        },
+        "title": "returns",
+        "type": {
+          "type": "NameExpression",
+          "name": "Promise"
+        }
+      }
+    ],
+    "sees": [],
+    "throws": [],
+    "todos": [],
+    "name": "getAccountBalance",
+    "kind": "function",
+    "memberof": "BlockstackNetwork",
+    "scope": "instance",
+    "members": {
+      "global": [],
+      "inner": [],
+      "instance": [],
+      "events": [],
+      "static": []
+    },
+    "path": [
+      {
+        "name": "getAccountBalance",
+        "kind": "function",
+        "scope": "instance"
+      }
+    ],
+    "namespace": "#getAccountBalance"
   }
 ]

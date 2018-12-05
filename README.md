@@ -43,6 +43,17 @@ _Note: this document uses ES6 in its examples but it is compiled down to Javascr
 
 [![Documentation](/docs-button.png)](http://blockstack.github.io/blockstack.js/index.html)
 
+The documentation is built using [documentationjs](https://github.com/documentationjs).
+
+1. Configure the left hand navigation with the `documentation.yml` configuration file.
+2. To build the documentation:
+
+   `npm run build-documentation`
+
+
+To learn more about configuration, see https://github.com/documentationjs/documentation/blob/master/docs/CONFIG.md
+
+
 ## Compatibility
 
 _Note:_ blockstack.js 0.14.0 and newer versions use a new on-disk format that is not backward compatible with prior versions.

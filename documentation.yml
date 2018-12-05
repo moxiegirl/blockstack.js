@@ -29,3 +29,23 @@ toc:
   - decryptContent
   - getAppBucketUrl
   - getUserAppFileUrl
+  - getZonefile
+  - listFiles
+  - name: Names
+    file: src/READMENAME.md
+  - getNamePrice
+  - getNamespacePrice
+  - getGracePeriod
+  - getNamesOwned
+  - getNamespaceBurnAddress
+  - getNameInfo
+  - getNamespaceInfo
+  - getZonefile
+  - name: Token
+    file: src/READMETOKEN.md
+  - getAccountStatus
+  - getAccountHistoryPage
+  - getAccountAt
+  - getAccountTokens
+  - getAccountBalance
+  - estimateTokenTransfer

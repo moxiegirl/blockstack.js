@@ -275,6 +275,46 @@
               
                 
                 <li><a
+                  href='#listfiles'
+                  class="">
+                  listFiles
+                  
+                </a>
+                
+                </li>
+              
+                
+                <li><a
+                  href='#names'
+                  class="h5 bold black caps">
+                  Names
+                  
+                </a>
+                
+                </li>
+              
+                
+                <li><a
+                  href='#token'
+                  class="h5 bold black caps">
+                  Token
+                  
+                </a>
+                
+                </li>
+              
+                
+                <li><a
+                  href='#estimatetokentransfer'
+                  class="">
+                  estimateTokenTransfer
+                  
+                </a>
+                
+                </li>
+              
+                
+                <li><a
                   href='#getnameprice'
                   class="">
                   getNamePrice
@@ -398,26 +438,6 @@
                   href='#getaccountbalance'
                   class="">
                   getAccountBalance
-                  
-                </a>
-                
-                </li>
-              
-                
-                <li><a
-                  href='#estimatetokentransfer'
-                  class="">
-                  estimateTokenTransfer
-                  
-                </a>
-                
-                </li>
-              
-                
-                <li><a
-                  href='#listfiles'
-                  class="">
-                  listFiles
                   
                 </a>
                 
@@ -2816,6 +2836,230 @@ or rejects with an error
   
   <div class='clearfix'>
     
+    <h3 class='fl m0' id='listfiles'>
+      listFiles
+    </h3>
+    
+    
+  </div>
+  
+
+  <p>List the set of files in this application's Gaia storage bucket.</p>
+
+
+  <div class='pre p1 fill-light mt0'>listFiles(callback: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function">function</a>): <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></div>
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+    <div class='py1 quiet mt1 prose-big'>Parameters</div>
+    <div class='prose'>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>callback</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function">function</a>)</code>
+	    a callback to invoke on each named file that
+returns 
+<code>true</code>
+ to continue the listing operation or 
+<code>false</code>
+ to end it
+
+          </div>
+          
+        </div>
+      
+    </div>
+  
+
+  
+
+  
+    
+      <div class='py1 quiet mt1 prose-big'>Returns</div>
+      <code><a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></code>:
+        that resolves to the number of files listed
+
+      
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</section>
+
+          
+        
+          
+            <div class='keyline-top-not py2'><section class='py2 clearfix'>
+
+  <h2 id='names' class='mt0'>
+    Names
+  </h2>
+
+  
+    
+
+  
+</section>
+</div>
+          
+        
+          
+            <div class='keyline-top-not py2'><section class='py2 clearfix'>
+
+  <h2 id='token' class='mt0'>
+    Token
+  </h2>
+
+  
+    
+
+  
+</section>
+</div>
+          
+        
+          
+            <section class='p2 mb2 clearfix bg-white minishadow'>
+
+  
+  <div class='clearfix'>
+    
+    <h3 class='fl m0' id='estimatetokentransfer'>
+      estimateTokenTransfer
+    </h3>
+    
+    
+  </div>
+  
+
+  <p>Estimates the cost of a token-transfer transaction</p>
+
+
+  <div class='pre p1 fill-light mt0'>estimateTokenTransfer(recipientAddress: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, tokenType: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, tokenAmount: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object">Object</a>, scratchArea: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, senderUtxos: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>, additionalOutputs: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>): <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></div>
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+    <div class='py1 quiet mt1 prose-big'>Parameters</div>
+    <div class='prose'>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>recipientAddress</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
+	    the recipient of the tokens
+
+          </div>
+          
+        </div>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>tokenType</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
+	    the type of token to spend
+
+          </div>
+          
+        </div>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>tokenAmount</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object">Object</a>)</code>
+	    a 64-bit unsigned BigInteger encoding the number of tokens
+to spend
+
+          </div>
+          
+        </div>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>scratchArea</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
+	    an arbitrary string to store with the transaction
+
+          </div>
+          
+        </div>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>senderUtxos</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>
+            = <code>1</code>)</code>
+	    the number of utxos we expect will
+be required from the importer address
+
+          </div>
+          
+        </div>
+      
+        <div class='space-bottom0'>
+          <div>
+            <span class='code bold'>additionalOutputs</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>
+            = <code>1</code>)</code>
+	    the number of outputs we expect to add beyond
+just the recipient output (default = 1, if the token owner is also the bitcoin funder)
+
+          </div>
+          
+        </div>
+      
+    </div>
+  
+
+  
+
+  
+    
+      <div class='py1 quiet mt1 prose-big'>Returns</div>
+      <code><a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></code>:
+        a promise which resolves to the satoshi cost to
+fund this token-transfer transaction
+
+      
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+</section>
+
+          
+        
+          
+            <section class='p2 mb2 clearfix bg-white minishadow'>
+
+  
+  <div class='clearfix'>
+    
     <h3 class='fl m0' id='getnameprice'>
       getNamePrice
     </h3>
@@ -3732,200 +3976,6 @@ tokens of this type, then 0 will be returned.</p>
       <code><a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></code>:
         a promise that resolves to a BigInteger that encodes the number of tokens
 held by this account.
-
-      
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-</section>
-
-          
-        
-          
-            <section class='p2 mb2 clearfix bg-white minishadow'>
-
-  
-  <div class='clearfix'>
-    
-    <h3 class='fl m0' id='estimatetokentransfer'>
-      estimateTokenTransfer
-    </h3>
-    
-    
-  </div>
-  
-
-  <p>Estimates the cost of a token-transfer transaction</p>
-
-
-  <div class='pre p1 fill-light mt0'>estimateTokenTransfer(recipientAddress: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, tokenType: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, tokenAmount: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object">Object</a>, scratchArea: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>, senderUtxos: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>, additionalOutputs: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>): <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></div>
-  
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-    <div class='py1 quiet mt1 prose-big'>Parameters</div>
-    <div class='prose'>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>recipientAddress</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
-	    the recipient of the tokens
-
-          </div>
-          
-        </div>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>tokenType</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
-	    the type of token to spend
-
-          </div>
-          
-        </div>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>tokenAmount</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Object">Object</a>)</code>
-	    a 64-bit unsigned BigInteger encoding the number of tokens
-to spend
-
-          </div>
-          
-        </div>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>scratchArea</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/String">String</a>)</code>
-	    an arbitrary string to store with the transaction
-
-          </div>
-          
-        </div>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>senderUtxos</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>
-            = <code>1</code>)</code>
-	    the number of utxos we expect will
-be required from the importer address
-
-          </div>
-          
-        </div>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>additionalOutputs</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Number">Number</a>
-            = <code>1</code>)</code>
-	    the number of outputs we expect to add beyond
-just the recipient output (default = 1, if the token owner is also the bitcoin funder)
-
-          </div>
-          
-        </div>
-      
-    </div>
-  
-
-  
-
-  
-    
-      <div class='py1 quiet mt1 prose-big'>Returns</div>
-      <code><a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></code>:
-        a promise which resolves to the satoshi cost to
-fund this token-transfer transaction
-
-      
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-</section>
-
-          
-        
-          
-            <section class='p2 mb2 clearfix bg-white minishadow'>
-
-  
-  <div class='clearfix'>
-    
-    <h3 class='fl m0' id='listfiles'>
-      listFiles
-    </h3>
-    
-    
-  </div>
-  
-
-  <p>List the set of files in this application's Gaia storage bucket.</p>
-
-
-  <div class='pre p1 fill-light mt0'>listFiles(callback: <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function">function</a>): <a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></div>
-  
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-    <div class='py1 quiet mt1 prose-big'>Parameters</div>
-    <div class='prose'>
-      
-        <div class='space-bottom0'>
-          <div>
-            <span class='code bold'>callback</span> <code class='quiet'>(<a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Statements/function">function</a>)</code>
-	    a callback to invoke on each named file that
-returns 
-<code>true</code>
- to continue the listing operation or 
-<code>false</code>
- to end it
-
-          </div>
-          
-        </div>
-      
-    </div>
-  
-
-  
-
-  
-    
-      <div class='py1 quiet mt1 prose-big'>Returns</div>
-      <code><a href="https://developer.mozilla.org/docs/Web/JavaScript/Reference/Global_Objects/Promise">Promise</a></code>:
-        that resolves to the number of files listed
 
       
     
