@@ -4,6 +4,33 @@ All notable changes to the project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [19.4.0] - 2019-09-03
+### Changed
+- Excluded unused bip39 wordlist from dist bundle, reducing bundle size.
+
+## [19.3.0] - 2019-08-21
+
+### Changed
+- Fixed deprecated crypto warning in node.js usage.
+- `handlePendingSignIn` now throws an error when overwriting an existing user session. See issue #680
+- Updated jsontokens library to v2.
+
+## [19.2.2] - 2019-05-12
+
+### Changed
+- Updated bitcoinjs-lib dependency to v5 and eliminates node-gyp errors on install
+- Fixed bugs when running in a web worker
+
+## [19.2.0] - 2019-05-12
+
+### Added
+- Method `deleteFile()` is now implemented
+
+### Changed
+- Fixed return type for BlockstackNetwork.getAccountTokens
+- Property `manifestURI` is now included in loaded manifest object
+- The `src` directory is now included in the npm package
+
 ## [19.1.0] - 2019-03-29
 
 ### Added

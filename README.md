@@ -2,21 +2,24 @@
 
 Note: If you're looking for the Blockstack CLI repo it was merged with [Blockstack Core](https://github.com/blockstack/blockstack-core).
 
--   [Installation](#installation)
--   [About](#about)
--   [Auth](https://blockstack.github.io/blockstack.js/index.html#authentication)
--   [Profiles](https://blockstack.github.io/blockstack.js/index.html#profiles)
--   [Storage](https://blockstack.github.io/blockstack.js/index.html#storage)
--   [Documentation](#documentation)
--   [Compatibility](#compatibility)
--   [Contributing](#contributing)
--   [Maintainer](#maintainer)
--   [Testing](#testing)
--   [Releasing](#releasing)
+  - [Installation](#installation)
+  - [About](#about)
+  - [Documentation](#documentation)
+  - [Compatibility](#compatibility)
+  - [Contributing](#contributing)
+  - [Maintainer](#maintainer)
+  - [Testing](#testing)
+    - [Testing in a browser](#testing-in-a-browser)
+  - [Releasing](#releasing)
 
 ## Installation
 
-    $ npm install blockstack
+```
+$ npm install blockstack
+```
+
+You can import `blockstack.js` as a script without using a package manager. To securely use the latest distribution of blockstack.js from a CDN, add [the mdincludes/script-dist-file.md](mdincludes/script-dist-file.md) script in your application. 
+
 
 ## About
 
@@ -57,7 +60,7 @@ changes for the next release are in `develop`.
 We use the [git-flow-avh](https://github.com/petervanderdoes/gitflow-avh) plugin.
 
 Please send pull requests against `develop`. Pull requests should include tests,
-[flow static type annotations](https://flow.org) and be lint free.
+[flow static type annotations](https://flow.org) and be lint free. Open your pull request using the template in  `PULL_REQUEST_TEMPLATE.md`
 
 Github issues marked [help-wanted](https://github.com/blockstack/blockstack.js/labels/help-wanted)
 are great places to start. Please ask in a github issue or slack before embarking
@@ -82,10 +85,4 @@ Run `npm run compile; npm run browserify` before opening the file `test.html`
 in your browser.
 
 ## Releasing
-
-- `git flow release start <version>`
-- Add section to `CHANGELOG.md`
-- Increment version in `package.json` and commit
-- `npm publish`
-- Commit built documentation and distribution
-- `git flow release finish`
+See `release-checklist.md`

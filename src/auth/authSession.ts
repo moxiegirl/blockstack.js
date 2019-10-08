@@ -1,6 +1,7 @@
 // @ts-ignore: Could not find a declaration file for module
 import { TokenSigner, decodeToken, SECP256K1Client } from 'jsontokens'
 import 'cross-fetch/polyfill'
+import { fetchPrivate } from '../fetchUtil'
 
 /**
  * Create an authentication token to be sent to the Core API server
@@ -81,7 +82,7 @@ export function sendCoreSessionRequest(coreHost: string,
         }
       }
       const url = `http://${coreHost}:${corePort}/v1/auth?authRequest=${coreAuthRequest}`
-      return fetch(url, options)
+      return fetchPrivate(url, options)
     })
     .then((response) => {
       if (!response.ok) {
@@ -134,33 +135,34 @@ export function getCoreSession(coreHost: string,
     return Promise.reject('No authRequest provided')
   }
 
-  let payload = null
-  let authRequestObject = null
   try {
-    authRequestObject = decodeToken(authRequest)
+    const authRequestObject = decodeToken(authRequest)
     if (!authRequestObject) {
       return Promise.reject('Invalid authRequest in URL query string')
     }
     if (!authRequestObject.payload) {
       return Promise.reject('Invalid authRequest in URL query string')
     }
-    payload = authRequestObject.payload
+    const payload = authRequestObject.payload
+    if (typeof payload === 'string') {
+      throw new Error('Unexpected token payload type of string')
+    }
+
+    const appDomain = payload.domain_name
+    if (!appDomain) {
+      return Promise.reject('No domain_name in authRequest')
+    }
+    const appMethods = payload.scopes
+
+    const coreAuthRequest = makeCoreSessionRequest(
+      appDomain, appMethods, appPrivateKey, blockchainId, deviceId
+    )
+
+    return sendCoreSessionRequest(
+      coreHost, corePort, coreAuthRequest, apiPassword
+    )
   } catch (e) {
     console.error(e.stack)
     return Promise.reject('Failed to parse authRequest in URL')
   }
-
-  const appDomain = payload.domain_name
-  if (!appDomain) {
-    return Promise.reject('No domain_name in authRequest')
-  }
-  const appMethods = payload.scopes
-
-  const coreAuthRequest = makeCoreSessionRequest(
-    appDomain, appMethods, appPrivateKey, blockchainId, deviceId
-  )
-
-  return sendCoreSessionRequest(
-    coreHost, corePort, coreAuthRequest, apiPassword
-  )
 }

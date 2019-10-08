@@ -1,16 +1,18 @@
 
-import queryString from 'query-string'
+import * as queryString from 'query-string'
 // @ts-ignore: Could not find a declaration file for module
 import { decodeToken } from 'jsontokens'
 import { verifyAuthResponse } from './authVerification'
-import { isLaterVersion, hexStringToECPair, checkWindowAPI } from '../utils'
+import { isLaterVersion, hexStringToECPair, getGlobalObject, getGlobalObjects } from '../utils'
+import { fetchPrivate } from '../fetchUtil'
 import { getAddressFromDID } from '../dids'
 import { LoginFailedError } from '../errors'
 import { decryptPrivateKey, makeAuthRequest } from './authMessages'
 import {
   BLOCKSTACK_DEFAULT_GAIA_HUB_URL,
   DEFAULT_BLOCKSTACK_HOST,
-  NAME_LOOKUP_PATH
+  NAME_LOOKUP_PATH,
+  AuthScope
 } from './authConstants'
 import { extractProfile } from '../profiles/profileTokens'
 import { UserSession } from './userSession'
@@ -109,7 +111,7 @@ export function isUserSignedIn() {
  */
 export function redirectToSignIn(redirectURI?: string, 
                                  manifestURI?: string, 
-                                 scopes?: string[]) { 
+                                 scopes?: Array<AuthScope | string>) { 
   console.warn('DEPRECATION WARNING: The static redirectToSignIn() function will be deprecated in the '
     + 'next major release of blockstack.js. Create an instance of UserSession and call the '
     + 'instance method redirectToSignIn().')
@@ -150,8 +152,11 @@ export function isSignInPending() {
  * @return {String} the authentication token if it exists otherwise `null`
  */
 export function getAuthResponseToken(): string {
-  checkWindowAPI('getAuthResponseToken', 'location')
-  const queryDict = queryString.parse(window.location.search)
+  const search = getGlobalObject(
+    'location', 
+    { throwIfUnavailable: true, usageDesc: 'getAuthResponseToken' }
+  ).search
+  const queryDict = queryString.parse(search)
   return queryDict.authResponse ? <string>queryDict.authResponse : ''
 }
 
@@ -183,15 +188,10 @@ export function signUserOut(redirectURL?: string, caller?: UserSession) {
   const userSession = caller || new UserSession()
   userSession.store.deleteSessionData()
   if (redirectURL) {
-    if (typeof window !== 'undefined') {
-      window.location.href = redirectURL
-    } else {
-      const errMsg = '`signUserOut` called with `redirectURL` specified'
-        + ` ("${redirectURL}")`
-        + ' but `window.location.href` is not available in this environment'
-      Logger.error(errMsg)
-      throw new Error(errMsg)
-    }
+    getGlobalObject(
+      'location', 
+      { throwIfUnavailable: true, usageDesc: 'signUserOut' }
+    ).href = redirectURL
   } 
 }
 
@@ -217,13 +217,15 @@ export function redirectToSignInWithAuthRequest(
   authRequest = authRequest || makeAuthRequest()
   const httpsURI = `${blockstackIDHost}?authRequest=${authRequest}`
 
-  checkWindowAPI('redirectToSignInWithAuthRequest', 'navigator')
-  checkWindowAPI('redirectToSignInWithAuthRequest', 'location')
+  const { navigator, location } = getGlobalObjects(
+    ['navigator', 'location'],
+    { throwIfUnavailable: true, usageDesc: 'redirectToSignInWithAuthRequest' }
+  )
 
   // If they're on a mobile OS, always redirect them to HTTPS site
-  if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(window.navigator.userAgent)) {
+  if (/Android|webOS|iPhone|iPad|iPod|Opera Mini/i.test(navigator.userAgent)) {
     Logger.info('detected mobile OS, sending to https')
-    window.location.href = httpsURI
+    location.href = httpsURI
     return
   }
 
@@ -234,7 +236,7 @@ export function redirectToSignInWithAuthRequest(
 
   function failCallback() {
     Logger.warn('protocol handler not detected')
-    window.location.href = httpsURI
+    location.href = httpsURI
   }
 
   launchCustomProtocol(authRequest, successCallback, failCallback)
@@ -282,11 +284,21 @@ export async function handlePendingSignIn(
   if (!caller) {
     caller = new UserSession()
   }
+
+  const sessionData = caller.store.getSessionData()
+
+  if (sessionData.userData) {
+    throw new LoginFailedError('Existing user session found.')
+  }
+
   if (!transitKey) {
     transitKey = caller.store.getSessionData().transitKey
   }
   if (!nameLookupURL) {
     const tokenPayload = decodeToken(authResponseToken).payload
+    if (typeof tokenPayload === 'string') {
+      throw new Error('Unexpected token payload type of string')
+    }
     if (isLaterVersion(tokenPayload.version, '1.3.0')
        && tokenPayload.blockstackAPIUrl !== null && tokenPayload.blockstackAPIUrl !== undefined) {
       // override globally
@@ -302,6 +314,10 @@ export async function handlePendingSignIn(
     throw new LoginFailedError('Invalid authentication response.')
   }
   const tokenPayload = decodeToken(authResponseToken).payload
+  if (typeof tokenPayload === 'string') {
+    throw new Error('Unexpected token payload type of string')
+  }
+
   // TODO: real version handling
   let appPrivateKey = tokenPayload.private_key
   let coreSessionToken = tokenPayload.core_token
@@ -357,7 +373,7 @@ export async function handlePendingSignIn(
   }
   const profileURL = tokenPayload.profile_url
   if (!userData.profile && profileURL) {
-    const response = await fetch(profileURL)
+    const response = await fetchPrivate(profileURL)
     if (!response.ok) { // return blank profile if we fail to fetch
       userData.profile = Object.assign({}, DEFAULT_PROFILE)
     } else {
@@ -370,7 +386,6 @@ export async function handlePendingSignIn(
     userData.profile = tokenPayload.profile
   }
   
-  const sessionData = caller.store.getSessionData()
   sessionData.userData = userData
   caller.store.setSessionData(sessionData)
   
